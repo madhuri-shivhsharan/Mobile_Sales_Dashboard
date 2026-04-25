@@ -30,8 +30,15 @@ This dashboard enables stakeholders to:
 - Monitor customer satisfaction to improve service quality.
 
 ## Visuals
+## MTD Report (Month-to-Date):  
+Visualizes cumulative sales growth within the selected month, helping track daily progress and identify peak sales days.
+Example: January 2022 shows steady growth from 0.4M on Day 1 to 22.8M by Day 30.
 <img src="MTD REPORT.png" width="800">
 
+## Same Period Last Year Report:  
+Compares current year’s performance against the same period in the previous year, enabling quick identification of growth patterns and areas needing attention.
+Example: In 2023, Q2 sales (64.39M) slightly outperformed Q2 of 2022 (63.94M), while Q1 and Q3 showed declines.
+<img src="Same Period Last Year Report.png" width="800">
 
 ## Conclusion
 The Mobile Sales Dashboard is a strong example of how BI tools can transform raw data into meaningful insights. It demonstrates my ability to combine technical skills with business understanding, making it a valuable addition to my portfolio.
