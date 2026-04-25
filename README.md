@@ -1,5 +1,6 @@
 # Mobile_Sales_Dashboard-Power BI
-- This project demonstrates my ability to design and develop a comprehensive BI dashboard that provides actionable insights into mobile phone sales. The dashboard was created using Power BI and showcases multiple dimensions of sales performance, including geography, product models, payment methods, and customer ratings.
+This project demonstrates my ability to design and develop a comprehensive BI dashboard that provides actionable insights into mobile phone sales. The dashboard was created using Power BI and showcases multiple dimensions of sales performance, including geography, product models, payment methods, and customer ratings.
+<img src="Hospital Emergency Room Dashboard.jpg" width="800">
 ## Objectives
 
 - Analyze mobile sales trends across cities, months, and days of the week.
